@@ -1,3 +1,3 @@
-# cantodotoja
+# Canto do Toja
 
-Um espaço para compartilhar aquilo que aprendi.
+Um canto para compartilhar aquilo que aprendi!
